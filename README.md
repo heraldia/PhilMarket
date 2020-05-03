@@ -5,7 +5,9 @@ UNITY3D
 
 # TODO
 - shelf blocks person, rigid physics.
-- first person rotation speed.
+
+# Done
+- first person rotation speed 20200503T1000 
 
 # Description
 SupermarketInterior: a good supermarket scene with many good resources.
