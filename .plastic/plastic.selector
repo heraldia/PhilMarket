@@ -1,0 +1,3 @@
+rep "PhilMarket@SmarHomeLabISU@cloud"
+  path "/"
+    smartbranch "/main"
